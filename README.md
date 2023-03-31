@@ -15,3 +15,8 @@ Why-Three Layer Architecture Approach
 We’ve choose 3-Layer Architecture approach as it initially covers complete business areas and combines data according to current needs in a subsequent step. In contrast, the 2-layer Architecture Approach for Large-Scale Data Warehouse Systems defines DW based on actual users’ requirements. This leads to higher complexity and higher volume of extracted data. More conceptual work is necessary, so that duration and costs of the implementation are affected. 
 
 
+Team Members: 
+Aly Ayman 
+Alyaa Khamis 
+Hesham Hassan
+
